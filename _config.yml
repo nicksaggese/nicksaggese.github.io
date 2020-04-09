@@ -24,7 +24,7 @@ github_username:  nicksaggese
 
 # Build settings
 markdown: kramdown
-remote-theme: johno/pixyll
+remote_theme: johno/pixyll
 # remote_theme: rosario/kasper
 plugins:
   - jekyll-feed
